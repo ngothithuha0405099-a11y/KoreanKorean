@@ -1,10 +1,11 @@
-
-<html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>한국어 단어장 – Học Từ Vựng Tiếng Hàn</title>
-  :root {
+
+<style>
+
+:root {
     --bg: #0f0f13;
     --surface: #1a1a24;
     --surface2: #23232f;
