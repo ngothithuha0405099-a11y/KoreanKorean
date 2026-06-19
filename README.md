@@ -1,14 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="vi">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>한국어 단어장 – Học Từ Vựng Tiếng Hàn</title>
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;700&family=Be+Vietnam+Pro:wght@300;400;600;700&display=swap');
-
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
   :root {
     --bg: #0f0f13;
     --surface: #1a1a24;
